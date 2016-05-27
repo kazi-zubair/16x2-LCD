@@ -1,0 +1,15 @@
+"D:\IAR Systems\Embedded Workbench 7.4\arm\bin\armproc.dll" 
+
+"D:\IAR Systems\Embedded Workbench 7.4\arm\bin\armlmiftdi.dll" 
+
+"C:\Users\Zubair\Documents\iarProject\lcddx\Debug\Exe\lcddx.out" 
+
+--plugin "D:\IAR Systems\Embedded Workbench 7.4\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR Systems\Embedded Workbench 7.4\arm\config\debugger\TexasInstruments\LM4F.dmac" 
+
+--flash_loader "D:\IAR Systems\Embedded Workbench 7.4\arm\config\flashloader\TexasInstruments\FlashLM4FxxxHxx.board" 
+
+
+
+
